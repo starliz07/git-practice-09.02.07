@@ -1,0 +1,8 @@
+# Папки сборки Visual Studio / Rider
+bin/
+obj/
+
+# Пользовательские настройки
+.vs/
+*.user
+*.suo
