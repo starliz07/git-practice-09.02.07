@@ -4,10 +4,13 @@ namespace CalculatorApp
 {
     public class Calculator
     {
-        // СЃР»РѕР¶РµРЅРёРµ
+        // сложение
         public int Add(int a, int b)
         {
             return a + b;
         }
+
+        // умножение
+        public int Multiply(int a, int b) { return a * b; }
     }
 }
